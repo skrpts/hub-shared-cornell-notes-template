@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "7bf8ed80-ccb0-420b-abd7-ee3c9e695aff"
+name: "cornell-notes-template"
+display_name: "Cornell Notes Template"
+description: "Reusable template for structuring lecture and reading notes using the Cornell method"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-cornell-notes-template"
+category: "shared"
+tags:
+  - "shared"
+  - "asset"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 1
+  total: 1
